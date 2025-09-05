@@ -1,4 +1,4 @@
 discord.py
 python-dotenv~=1.1.0
-translationstring~=25.0.1
+translationstring
 flask
